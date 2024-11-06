@@ -1,0 +1,20 @@
+{
+    blockPallets: [
+        {
+            rarity: 0.7,
+            blocks: [
+                {rarity: 0.7, block: "stone"},
+                {rarity: 1, block: "stone_bricks"},
+                {rarity: 0.2, block: "mossy_stone_bricks"}
+            ]
+        },
+        {
+            rarity: 0.2,
+            blocks: [
+                {rarity: 0.7, block: "stone"},
+                {rarity: 1, block: "cobblestone"},
+                {rarity: 0.2, block: "mossy_cobblestone"}
+            ]
+        }
+    ]
+}
